@@ -1,0 +1,4 @@
+github.com/rodkranz/fetch v1.2.0 h1:Yw9E7EOfNbCSEdAfNGu7HXJYkqEj/nRG5GQcnc7M1RI=
+github.com/rodkranz/fetch v1.2.0/go.mod h1:ojApfh+3ll3N2GP5dvYLGlxOrLS1ke5IRqpOUS7XGf4=
+golang.org/x/net v0.0.0-20180801234040-f4c29de78a2a h1:8fCF9zjAir2SP3N+axz9xs+0r4V8dqPzqsWO10t8zoo=
+golang.org/x/net v0.0.0-20180801234040-f4c29de78a2a/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
